@@ -1,0 +1,1 @@
+import{e as a,f as n,o as _,g as c}from"./vendor.a2729398.js";var u=(e,r)=>{const t=e.__vccOpts||e;for(const[s,o]of r)t[s]=o;return t};const p={name:"",components:{},setup(){const e=a({});return n(()=>{}),{data:e}}},d={class:"fulangren-resume"};function v(e,r,t,s,o,f){return _(),c("div",d)}var m=u(p,[["render",v],["__scopeId","data-v-871b7178"]]);export{m as default};
