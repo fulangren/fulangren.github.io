@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper.21dcd24c.js";import{e as s,f as o,o as r,g as a}from"./vendor.518b0a5e.js";const n={name:"",components:{},setup(){const e=s({});return o(()=>{}),{data:e}}},_={class:"fulangren-resume"};function c(e,p,u,d,m,f){return r(),a("div",_)}var v=t(n,[["render",c],["__scopeId","data-v-871b7178"]]);export{v as default};
